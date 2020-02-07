@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   fluvio:
   - apiVersion: v2
-    appVersion: 0.2.2
-    created: "2020-01-24T17:23:51.979184-08:00"
+    appVersion: 0.2.3
+    created: "2020-02-06T23:24:16.312798-08:00"
     description: A Helm chart for Fluvio
-    digest: ea285931697cb259a435becc4272d5545968c113f79dbc75d840a6622eb2c4b1
+    digest: c36ed217ac0798d9b6caf7fc4fa7ca92347f5be59a3edf5a1a8b5325c01d1d4e
     name: fluvio
     type: application
     urls:
-    - fluvio-0.2.2.tgz
-    version: 0.2.2
-generated: "2020-01-24T17:23:51.977965-08:00"
+    - fluvio-0.2.3.tgz
+    version: 0.2.3
+generated: "2020-02-06T23:24:16.31152-08:00"
