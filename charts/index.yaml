@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   fluvio-core:
   - apiVersion: v2
+    appVersion: 0.3.0
+    created: "2020-03-23T09:59:17.505558-07:00"
+    description: A Helm chart for Fluvio
+    digest: f0cd59694da447ccc185b6b497eec65b9e5bc2a94ef83c25b444339a4047d102
+    name: fluvio-core
+    type: application
+    urls:
+    - fluvio-core-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-02-20T16:43:53.111541-08:00"
+    created: "2020-03-23T09:59:17.505219-07:00"
     description: A Helm chart for Fluvio
     digest: bb21f4de71bd3525c4a0a614e645a2d24ed96f55e8c10426ec9ce55ee133d2c7
     name: fluvio-core
@@ -14,7 +24,7 @@ entries:
   fluvio-sys:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-02-20T16:43:53.111937-08:00"
+    created: "2020-03-23T09:59:17.50623-07:00"
     description: A Helm chart for Fluvio system components
     digest: 55cd07dbf440277c854814c589d1098070bc633b52bb044079a2288b0ae53cc3
     name: fluvio-sys
@@ -22,4 +32,4 @@ entries:
     urls:
     - fluvio-sys-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-20T16:43:53.110601-08:00"
+generated: "2020-03-23T09:59:17.504305-07:00"
