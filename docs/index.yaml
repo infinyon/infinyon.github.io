@@ -2,18 +2,8 @@ apiVersion: v1
 entries:
   fluvio-app:
   - apiVersion: v2
-    appVersion: 0.6.0
-    created: "2020-09-01T23:45:05.008019554Z"
-    description: A Helm chart for Fluvio
-    digest: 37aed7627eca230f976f98e1d470e8e3e19ad1b1de047b110d43f119561b99f0
-    name: fluvio-app
-    type: application
-    urls:
-    - fluvio-app-0.6.0.tgz
-    version: 0.6.0
-  - apiVersion: v2
     appVersion: 0.6.0-latest
-    created: "2020-09-01T23:45:05.007733057Z"
+    created: "2020-09-02T00:18:19.29434947Z"
     description: A Helm chart for Fluvio
     digest: 6255a86c4c648d0d5278e73645089d92d8a50ce8f5e139f57de52cebab2db54f
     name: fluvio-app
@@ -23,7 +13,7 @@ entries:
     version: 0.6.0-latest
   fluvio-core:
   - apiVersion: v2
-    created: "2020-09-01T23:45:05.009604697Z"
+    created: "2020-09-02T00:18:19.2959319Z"
     description: A Helm chart for Fluvio
     digest: 05bb490c4be5ec47b0c20a8296f25e1245429d0fcd8305eb53d7d7a019bc78e9
     name: fluvio-core
@@ -32,7 +22,7 @@ entries:
     - fluvio-core-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v2
-    created: "2020-09-01T23:45:05.009325259Z"
+    created: "2020-09-02T00:18:19.295689231Z"
     description: A Helm chart for Fluvio
     digest: d753c39c6e5ea742c8182b02456a6e6ae1117a1f2ed1339903c7e9f66605c6f9
     name: fluvio-core
@@ -41,7 +31,7 @@ entries:
     - fluvio-core-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
-    created: "2020-09-01T23:45:05.009070889Z"
+    created: "2020-09-02T00:18:19.295448735Z"
     description: A Helm chart for Fluvio
     digest: e76b6bb68b991ff333264dcd74fde4398430c1be27530760abee2c3cee321c83
     name: fluvio-core
@@ -50,7 +40,7 @@ entries:
     - fluvio-core-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
-    created: "2020-09-01T23:45:05.008815825Z"
+    created: "2020-09-02T00:18:19.29517087Z"
     description: A Helm chart for Fluvio
     digest: 545fceb66b3d3045dc355c3e8fd98d15e03579d7a94965d48b41aa217af7e0af
     name: fluvio-core
@@ -60,7 +50,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2020-09-01T23:45:05.008566057Z"
+    created: "2020-09-02T00:18:19.294874401Z"
     description: A Helm chart for Fluvio
     digest: f0cd59694da447ccc185b6b497eec65b9e5bc2a94ef83c25b444339a4047d102
     name: fluvio-core
@@ -70,7 +60,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-01T23:45:05.008309774Z"
+    created: "2020-09-02T00:18:19.294595678Z"
     description: A Helm chart for Fluvio
     digest: bb21f4de71bd3525c4a0a614e645a2d24ed96f55e8c10426ec9ce55ee133d2c7
     name: fluvio-core
@@ -80,7 +70,7 @@ entries:
     version: 0.2.3
   fluvio-sys:
   - apiVersion: v2
-    created: "2020-09-01T23:45:05.0102756Z"
+    created: "2020-09-02T00:18:19.296483841Z"
     description: A Helm chart for Fluvio system components
     digest: 9fc06d3706661b0f5e2189f2e1cdea1761cd6e094a4c76f002e7eac0410382ea
     name: fluvio-sys
@@ -90,7 +80,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-09-01T23:45:05.009958258Z"
+    created: "2020-09-02T00:18:19.296185791Z"
     description: A Helm chart for Fluvio system components
     digest: 55cd07dbf440277c854814c589d1098070bc633b52bb044079a2288b0ae53cc3
     name: fluvio-sys
@@ -98,4 +88,4 @@ entries:
     urls:
     - fluvio-sys-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-01T23:45:05.007281113Z"
+generated: "2020-09-02T00:18:19.29393255Z"
